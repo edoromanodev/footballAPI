@@ -58,7 +58,7 @@ Top scorers from the selected seasons.
 - `start`: Start year *(required)*
 - `end`: End year *(required)*
 
-### `GET /giornate`
+### `GET /gamedays`
 Full matchday schedule for a league.
 
 **Parameters:**
