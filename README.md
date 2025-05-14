@@ -80,7 +80,7 @@ Visit [http://localhost:5000/apidocs/](http://localhost:5000/apidocs/) for inter
 ### Setup
 
 ```bash
-git clone https://github.com/edoromanodev/european-football-api.git
+git clone https://github.com/edoromanodev/footballAPI.git
 cd european-football-api
 pip install -r requirements.txt
 python main.py
